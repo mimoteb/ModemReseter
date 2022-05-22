@@ -1,0 +1,10 @@
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\ModemReseter.vbproj.GenerateResource.Cache
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\ModemReseter.xml
+M:\Projects\ModemReseter\ModemReseter\bin\Debug\ModemReseter.exe
+M:\Projects\ModemReseter\ModemReseter\bin\Debug\ModemReseter.pdb
+M:\Projects\ModemReseter\ModemReseter\bin\Debug\ModemReseter.xml
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\ModemReseter.exe
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\ModemReseter.pdb
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\ModemReseter.vbprojResolveAssemblyReference.cache
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\Sissona.frmMain.resources
+M:\Projects\ModemReseter\ModemReseter\obj\Debug\Sissona.Resources.resources
